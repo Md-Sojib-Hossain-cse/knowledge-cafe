@@ -1,0 +1,72 @@
+[
+    {
+        "id": "123456",
+        "cover": "https://i.ibb.co/VjQryKP/flat-lay-desktop-with-notebook-pizza.jpg",
+        "title": "The Enigmatic Journey",
+        "author": "Emily Smith",
+        "author_img": "https://i.ibb.co/rQ2R4MX/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+        "posted_date": "2024-03-15",
+        "reading_time": 10,
+        "hashtags": [
+            "#mystery",
+            "#adventure",
+            "#fiction"
+        ]
+    },
+    {
+        "id": "987654",
+        "cover": "https://i.ibb.co/3YM0c0x/online-blog.jpg",
+        "title": "Secrets of the Forgotten Realm",
+        "author": "David Johnson",
+        "author_img": "https://i.ibb.co/Kqjd6xs/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 15,
+        "hashtags": [
+            "#fantasy",
+            "#magic",
+            "#quest"
+        ]
+    },
+    {
+        "id": "654321",
+        "cover": "https://i.ibb.co/VxB0J50/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+        "title": "Beyond the Stars",
+        "author": "Sarah Brown",
+        "author_img": "https://i.ibb.co/rQ2R4MX/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 20,
+        "hashtags": [
+            "#scifi",
+            "#space",
+            "#exploration"
+        ]
+    },
+    {
+        "id": "456789",
+        "cover": "https://i.ibb.co/PQwjcL1/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "title": "Echoes of the Past",
+        "author": "Michael Lee",
+        "author_img": "https://i.ibb.co/Kqjd6xs/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 12,
+        "hashtags": [
+            "#historical",
+            "#mystery",
+            "#intrigue"
+        ]
+    },
+    {
+        "id": "135792",
+        "cover": "https://i.ibb.co/3YM0c0x/online-blog.jpg",
+        "title": "Whispers in the Dark",
+        "author": "Jennifer Adams",
+        "author_img": "https://i.ibb.co/rQ2R4MX/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 18,
+        "hashtags": [
+            "#thriller",
+            "#suspense",
+            "#detective"
+        ]
+    }
+]
