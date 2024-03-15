@@ -10,7 +10,7 @@ const Blogs = () => {
     } , [])
 
     return (
-        <div>
+        <div className="col-span-1 lg:col-span-2">
             <h3>Blogs : {blogs.length}</h3>
         </div>
     );
